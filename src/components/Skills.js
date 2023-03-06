@@ -40,23 +40,23 @@ export default function Skills() {
 
             <div className="mt-4">
                 <Slider {...settings}>
-                <SkillCard name="Rust" experience="1 years" img={rust} />
-                <SkillCard name="Bash" experience="1 years" img={bash} />
-                <SkillCard name="Python" experience="1 years" img={python} />
-                <SkillCard name="Javascript" experience="1 years" img={javascript} />
-                <SkillCard name="React" experience="1 years" img={reactIcon} />
-                <SkillCard name="Tailwind" experience="1 years" img={tailwind} />
-                <SkillCard name="NodeJS" experience="1 years" img={nodejs} />
-                <SkillCard name="Express" experience="1 years" img={express} />
-                <SkillCard name="Java" experience="1 years" img={java} />
-                <SkillCard name="C++" experience="1 years" img={cpp} />
-                <SkillCard name="Assembly" experience="1 years" img={assembly} />
-                <SkillCard name="Flutter" experience="1 years" img={flutter} />
-                <SkillCard name="React Native" experience="1 years" img={reactIcon} />
-                <SkillCard name="Docker" experience="1 years" img={docker} />
-                <SkillCard name="Git" experience="1 years" img={git} />
-                <SkillCard name="Blender" experience="1 years" img={blender} />
-                <SkillCard name="MongoDB" experience="1 years" img={gitlab} />
+                <SkillCard name="Rust" experience="3 years" img={rust} />
+                <SkillCard name="Bash" experience="2 years" img={bash} />
+                <SkillCard name="Python" experience="2 years" img={python} />
+                <SkillCard name="Javascript" experience="4 years" img={javascript} />
+                <SkillCard name="React" experience="4 years" img={reactIcon} />
+                <SkillCard name="Tailwind" experience="1 year" img={tailwind} />
+                <SkillCard name="NodeJS" experience="4 years" img={nodejs} />
+                <SkillCard name="Express" experience="3 years" img={express} />
+                <SkillCard name="Java" experience="2 years" img={java} />
+                <SkillCard name="C++" experience="1 year" img={cpp} />
+                <SkillCard name="Assembly" experience="2 years" img={assembly} />
+                <SkillCard name="Flutter" experience="2 years" img={flutter} />
+                <SkillCard name="React Native" experience="2 years" img={reactIcon} />
+                <SkillCard name="Docker" experience="1 year" img={docker} />
+                <SkillCard name="Git" experience="4 year" img={git} />
+                <SkillCard name="Blender" experience="1 year" img={blender} />
+                <SkillCard name="MongoDB" experience="3 years" img={gitlab} />
                 </Slider>
             </div>
             <img src={hr} className="w-full mt-8 md:h-3" alt="hr" />
