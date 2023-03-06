@@ -27,7 +27,7 @@ export default function Hiro () {
                 <div className="flex flex-col w-full mt-8">
                     <h1 className="text-xl text-white-400">Hi, I'm</h1>
                     <h1 className="text-2xl font-bold">Noman Nasir Minhas</h1>
-                    <p class="text-xl font-bold text-gray-300">Software Developer</p>
+                    <p class="text-xl font-bold text-gray-300">Full Stack Blockchain Developer</p>
                     <p className="text-md font-bold text-white-400 ">Code like a ninja, debug like a pirate, and deploy like a pro. Welcome to my portfolio, where the only bugs you'll find are in the code.</p>
                 </div>
                 {/* <a href='https://www.github.com/NomanNasirMinhas' className='mt-2 block'>See My Github <FontAwesomeIcon className='ml-2' icon={faCircleArrowRight}/> </a> */}

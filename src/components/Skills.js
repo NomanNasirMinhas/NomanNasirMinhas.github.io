@@ -10,8 +10,8 @@ import rust from "../assets/skills/rust.svg"
 import python from "../assets/skills/python.svg"
 import reactIcon from "../assets/skills/react.svg"
 import tailwind from "../assets/skills/tailwind.svg"
-// import react from "../assets/skills/react.svg"
-// import express from "../assets/skills/express1.svg"
+import golang from "../assets/skills/golang.svg"
+import solidity from "../assets/skills/solidity.svg"
 import java from "../assets/skills/java.svg"
 import cpp from "../assets/skills/cpp.svg"
 import assembly from "../assets/skills/assembly.svg"
@@ -36,11 +36,11 @@ export default function Skills() {
     return (
         <div id="skills" className="mt-4 text-white">
             <h1 className="text-2xl font-bold">Skills</h1>
-            <p className="font-light text-gray-400">Here are some of my skills</p>
-
             <div className="mt-4">
                 <Slider {...settings}>
                 <SkillCard name="Rust" experience="3 years" img={rust} />
+                <SkillCard name="Solidity" experience="3 years" img={solidity} />
+                <SkillCard name="GoLang" experience="1 year" img={golang} />
                 <SkillCard name="Bash" experience="2 years" img={bash} />
                 <SkillCard name="Python" experience="2 years" img={python} />
                 <SkillCard name="Javascript" experience="4 years" img={javascript} />

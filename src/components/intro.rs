@@ -1,17 +1,20 @@
 struct Developer{
     name: "Noman Nasir Minhas",
-    interests: ["Cyber Security", "Web Development", "System Programming", "Mobile Development"],
+    interests: ["Cyber Security", "Blockchain Development", 
+                "System Programming", "Web Development"],
     development: {
-        "System Programming": "Rust, Python, Java, C++",
-        "Web Development": "React, Svelte, Node.js, Express.js, FastAPI, ",
-        "Mobile Development": "Flutter, Dart, React Native",
-        "Databases": "MongoDB, MySQL, SQLite",
-        "Other": "Git, Docker, Linux, Bash ,Assembly",
+        "Blockchain Development": ["Solidity", "Rust", "GoLang"],
+        "System Programming": ["Rust", "Python", "Java", "GoLang", "C++"],
+        "Web Development": ["React", "Svelte", "Node.js", "Express.js", "FastAPI"],
+        "Mobile Development": ["Flutter", "React Native"],
+        "Databases": ["MongoDB", "MySQL", "SQLite"],
+        "Other": ["Git", "Docker", "Linux", "Bash" ,"Assembly"]
     },
     cyber_security: {
-        "Languages": "Python, C, C++, Java, Rust",
-        "Skills": "Malware Analysis, Network Forensics, Web Application Security, Reverse Engineering, 
-                   Exploit Development, Penetration Testing, Cryptography",
+        "Languages": ["Python", "C", "C++", "Java", "Rust"],
+        "Skills": ["Malware Analysis", "Network Forensics", "Web App Security", 
+                    "Reverse Engineering", "Exploit Development", 
+                    "Penetration Testing", "Cryptography"]
     },
     contact: {
         "Email": "contact.nomanminhas@gmail.com",
