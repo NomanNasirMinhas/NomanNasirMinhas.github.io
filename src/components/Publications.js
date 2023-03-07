@@ -14,7 +14,7 @@ export default function Publications() {
       };
 
     return (
-        <div id="skills" className="mt-4 text-white">
+        <div id="publications" className="mt-4 text-white">
             <h1 className="text-2xl font-bold">Publications</h1>
             <div className="mt-4">
                 <Slider {...settings}>
