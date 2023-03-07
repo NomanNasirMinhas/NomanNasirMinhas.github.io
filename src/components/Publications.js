@@ -10,7 +10,7 @@ export default function Publications() {
         autoplay: true,
         infinite: true,
         slidesToShow: 1,
-        slidesToScroll: 2
+        slidesToScroll: 1
       };
 
     return (
