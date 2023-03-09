@@ -1,10 +1,9 @@
 {
   "files": {
     "main.css": "/static/css/main.0d4ef53f.css",
-    "main.js": "/static/js/main.212ab7a9.js",
+    "main.js": "/static/js/main.87b32a29.js",
     "static/js/787.a7249224.chunk.js": "/static/js/787.a7249224.chunk.js",
     "static/media/bg.JPG": "/static/media/bg.7683c3fe534761bf9195.JPG",
-    "static/media/resume.pdf": "/static/media/resume.09243a26045e17f24db8.pdf",
     "static/media/git.jpg": "/static/media/git.9452bbae31b7e0ed94a6.jpg",
     "static/media/rust.jpg": "/static/media/rust.2882a6bdd776a63fb9cc.jpg",
     "static/media/IBMDevops.jpg": "/static/media/IBMDevops.9b3d066ba268027b79e3.jpg",
@@ -19,6 +18,7 @@
     "static/media/GIS.jpg": "/static/media/GIS.0384ec84b2975ecf5b6b.jpg",
     "static/media/PFC.jpg": "/static/media/PFC.f9c359d92fb6bca09efa.jpg",
     "static/media/CF.jpg": "/static/media/CF.177c6bb09b1a85d4b960.jpg",
+    "static/media/fullstack.pdf": "/static/media/fullstack.817f69eb9ea5803b49ba.pdf",
     "static/media/auto.jpg": "/static/media/auto.ab417f01c8fc684fc51e.jpg",
     "static/media/profile.svg": "/static/media/profile.c3700b103e136d4c37b41eb261ee9743.svg",
     "static/media/ieee.jpg": "/static/media/ieee.6b61dccd0bd8487c3697.jpg",
@@ -63,11 +63,11 @@
     "index.html": "/index.html",
     "static/media/solidity.svg": "/static/media/solidity.589a9cd98be9924165a471b591844879.svg",
     "main.0d4ef53f.css.map": "/static/css/main.0d4ef53f.css.map",
-    "main.212ab7a9.js.map": "/static/js/main.212ab7a9.js.map",
+    "main.87b32a29.js.map": "/static/js/main.87b32a29.js.map",
     "787.a7249224.chunk.js.map": "/static/js/787.a7249224.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0d4ef53f.css",
-    "static/js/main.212ab7a9.js"
+    "static/js/main.87b32a29.js"
   ]
 }
